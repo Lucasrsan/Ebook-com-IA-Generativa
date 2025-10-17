@@ -2,11 +2,11 @@
 
 ## 🌟 Sobre o Projeto
 
-Nesse projeto desenvolvi um ebook completo com auxilio de inteligência artificial.
+Nesse projeto desenvolvi um ebook sobre um tema de programação com auxilio de inteligência artificial.
 
 ## 🏫 Aprendizado na DIO
 
-Este projeto foi desenvolvido como parte do desafio da **DIO (Digital Innovation One** em parceria com a **Universia**, onde pude aplicar na prática o uso das IAs generativas, consolidando conhecimentos de criação de prompts eficazes, parâmetros para o midjourney e storytelling de forma prática
+Este projeto foi desenvolvido como parte do desafio da **DIO (Digital Innovation One** em parceria com a **Universia**, onde pude aplicar na prática o uso das IAs generativas, consolidando conhecimentos de criação de prompts eficazes e storytelling de forma prática.
 
 ## 🛠️ Tecnologias e Recursos Usados
 
